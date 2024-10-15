@@ -1,0 +1,15 @@
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.AssemblyInfoInputs.cache
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.AssemblyInfo.cs
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.csproj.CoreCompileInputs.cache
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.sourcelink.json
+/workspaces/mod5challenge.dad/DadJokes/bin/Debug/net8.0/DadJokes
+/workspaces/mod5challenge.dad/DadJokes/bin/Debug/net8.0/DadJokes.deps.json
+/workspaces/mod5challenge.dad/DadJokes/bin/Debug/net8.0/DadJokes.runtimeconfig.json
+/workspaces/mod5challenge.dad/DadJokes/bin/Debug/net8.0/DadJokes.dll
+/workspaces/mod5challenge.dad/DadJokes/bin/Debug/net8.0/DadJokes.pdb
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.dll
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/refint/DadJokes.dll
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.pdb
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/DadJokes.genruntimeconfig.cache
+/workspaces/mod5challenge.dad/DadJokes/obj/Debug/net8.0/ref/DadJokes.dll
